@@ -1,2 +1,11 @@
-# daily-java-projects
-One small project every day, committed daily by Lucifer for Thakur.
+# Daily Java Projects
+
+One small, complete Java project every day — built step by step to turn Java basics into real, working code.
+
+Each day gets its own folder with the source code and a short README explaining what the project does, the concepts it uses, and how to run it.
+
+## Index
+
+| Day | Project | Concepts |
+| --- | ------- | -------- |
+| 1 | [Temperature Converter](day-001-temperature-converter/) | Methods, if-else, Scanner input, printf |
