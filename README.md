@@ -9,3 +9,4 @@ Each day gets its own folder with the source code and a short README explaining 
 | Day | Project | Concepts |
 | --- | ------- | -------- |
 | 1 | [Temperature Converter](day-001-temperature-converter/) | Methods, if-else, Scanner input, printf |
+| 2 | [Simple Calculator](day-002-simple-calculator/) | Methods, switch, do-while loop, exception handling |
