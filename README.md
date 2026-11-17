@@ -12,3 +12,4 @@ Each day gets its own folder with the source code and a short README explaining 
 | 2 | [Simple Calculator](day-002-simple-calculator/) | Methods, switch, do-while loop, exception handling |
 | 3 | [Number Guessing Game](day-003-number-guessing-game/) | while loop, Random, Scanner, if-else chains, constants |
 | 4 | [Student Marks Analyzer](day-004-student-marks-analyzer/) | Arrays, for loops, for-each, methods, if-else chains, grade logic |
+| 5 | [Word Counter](day-005-word-counter/) | String methods, split, charAt, equalsIgnoreCase, loops, methods |
