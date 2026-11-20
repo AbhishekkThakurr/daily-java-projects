@@ -15,3 +15,4 @@ Each day gets its own folder with the source code and a short README explaining 
 | 5 | [Word Counter](day-005-word-counter/) | String methods, split, charAt, equalsIgnoreCase, loops, methods |
 | 6 | [Bank Account](day-006-bank-account/) | Classes, objects, constructor, fields, this, instance methods, validation |
 | 7 | [Library Book Manager](day-007-library-book-manager/) | Classes, ArrayList, for-each loop, methods, switch expression, Scanner |
+| 8 | [Contact Book](day-008-contact-book/) | HashMap, Map.Entry, put/get/containsKey/remove, switch expression, try-catch |
