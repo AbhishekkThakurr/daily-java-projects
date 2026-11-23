@@ -18,3 +18,4 @@ Each day gets its own folder with the source code and a short README explaining 
 | 8 | [Contact Book](day-008-contact-book/) | HashMap, Map.Entry, put/get/containsKey/remove, switch expression, try-catch |
 | 9 | [Todo List with File Saving](day-009-todo-list-file/) | File handling, BufferedReader/BufferedWriter, try-with-resources, IOException, ArrayList of objects, split |
 | 10 | [Quiz Game](day-010-quiz-game/) | Classes and objects, ArrayList, Scanner input, for-each loop, input validation, try-catch, methods |
+| 11 | [Rock Paper Scissors Game](day-011-rock-paper-scissors/) | enum, Random, while loop, switch expression, methods, input validation, constants |
