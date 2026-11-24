@@ -19,3 +19,4 @@ Each day gets its own folder with the source code and a short README explaining 
 | 9 | [Todo List with File Saving](day-009-todo-list-file/) | File handling, BufferedReader/BufferedWriter, try-with-resources, IOException, ArrayList of objects, split |
 | 10 | [Quiz Game](day-010-quiz-game/) | Classes and objects, ArrayList, Scanner input, for-each loop, input validation, try-catch, methods |
 | 11 | [Rock Paper Scissors Game](day-011-rock-paper-scissors/) | enum, Random, while loop, switch expression, methods, input validation, constants |
+| 12 | [Tic-Tac-Toe Game](day-012-tic-tac-toe/) | 2D arrays, methods, while loop, input validation, ternary operator, constants |
