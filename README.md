@@ -21,3 +21,4 @@ Each day gets its own folder with the source code and a short README explaining 
 | 11 | [Rock Paper Scissors Game](day-011-rock-paper-scissors/) | enum, Random, while loop, switch expression, methods, input validation, constants |
 | 12 | [Tic-Tac-Toe Game](day-012-tic-tac-toe/) | 2D arrays, methods, while loop, input validation, ternary operator, constants |
 | 13 | [Shape Area Calculator](day-013-shape-area-calculator/) | Abstract class, inheritance, method overriding, polymorphism, ArrayList, Heron's formula |
+| 14 | [Payment System](day-014-payment-system/) | Interface, multiple interfaces, polymorphism via interface reference, ArrayList, switch expression, input validation |
