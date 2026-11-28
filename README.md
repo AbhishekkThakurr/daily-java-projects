@@ -23,3 +23,4 @@ Each day gets its own folder with the source code and a short README explaining 
 | 13 | [Shape Area Calculator](day-013-shape-area-calculator/) | Abstract class, inheritance, method overriding, polymorphism, ArrayList, Heron's formula |
 | 14 | [Payment System](day-014-payment-system/) | Interface, multiple interfaces, polymorphism via interface reference, ArrayList, switch expression, input validation |
 | 15 | [Movie Ticket Booking](day-015-movie-ticket-booking/) | Custom exception, throw/throws, try-catch, enum with fields, 2D arrays, ArrayList, removeIf |
+| 16 | [Multi-Threaded File Downloader](day-016-multi-threaded-downloader/) | Runnable, Thread, sleep, join, isAlive, priorities, synchronized, ArrayList |
